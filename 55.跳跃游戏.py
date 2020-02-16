@@ -2,7 +2,7 @@
 # @lc app=leetcode.cn id=55 lang=python3
 #
 # [55] 跳跃游戏
-# 我又成功了
+# vscode
 
 # @lc code=start
 class Solution:
